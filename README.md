@@ -1,2 +1,2 @@
-# Olist_dataset_analysis
-This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil
+# Olist dataset analysis
+End-to-end e-commerce customer analytics project using SQL, Python, RFM segmentation, KMeans clustering, and Power BI dashboard.
