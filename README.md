@@ -12,7 +12,8 @@ The goal is to analyze sales performance, understand customer behavior, and prov
 
 - Analyze total and monthly revenue performance  
 - Identify top-performing customers and product categories  
-- Understand customer behavior through RFM segmentation    
+- Understand customer behavior through RFM segmentation
+- Detect churn risk and high-value customer groups     
 - Build an interactive dashboard for business decision-making  
 
 ---
