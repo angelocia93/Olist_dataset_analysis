@@ -38,6 +38,6 @@ Olist_dataset_analysis/
 ├── sql/                    # SQL queries for KPI and analysis
 ├── notebooks/              # Exploratory analysis and segmentation
 ├── src/                    # Python scripts
-├── dashboard/              # Power BI dashboard and exports
+├── dashboard_&_insights /              # Power BI dashboard, exports and insight
 │
 └── README.md
