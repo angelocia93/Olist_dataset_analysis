@@ -6,6 +6,8 @@ This project is an end-to-end customer and revenue analysis for an e-commerce bu
 
 The goal is to analyze sales performance, understand customer behavior, and provide actionable business insights using SQL, Python, and Power BI.
 
+A PDF version including both the dashboard and key business insights is available for quick review.
+
 ---
 
 ## Objectives
