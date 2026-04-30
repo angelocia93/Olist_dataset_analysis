@@ -1,4 +1,4 @@
-# Olist dataset analysis
+# E-commerce Customer Segmentation & Revenue Analysis
 
 ## Project Overview
 
