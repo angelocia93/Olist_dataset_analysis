@@ -1,6 +1,6 @@
 ## E-commerce Customer Segmentation & Revenue Analysis
 
-# Project Overview
+Project Overview
 
 This project is an end-to-end customer and revenue analysis for an e-commerce business. The goal is to analyze sales performance, understand customer behavior, and provide actionable business insights using SQL, Python, and Power BI. A PDF version including both the dashboard and key business insights is available for quick review.
 
